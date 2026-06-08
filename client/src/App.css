@@ -1,0 +1,22 @@
+.app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: system-ui, sans-serif;
+}
+
+.healthcare-status {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  background: #f8fafc;
+}
+
+.message {
+  color: #166534;
+}
+
+.error {
+  color: #b91c1c;
+}
