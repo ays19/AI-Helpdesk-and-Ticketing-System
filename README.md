@@ -1,1 +1,1 @@
-Using Agentic AI with Cursor
+Using Agentic AI with Cursor CLI
